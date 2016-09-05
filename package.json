@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/amuzalevskiy/GoitJsDz/issues"
   },
-  "homepage": "https://github.com/amuzalevskiy/GoitJsDz#readme"
+  "homepage": "https://github.com/amuzalevskiy/GoitJsDz#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.0.2"
+  }
 }
